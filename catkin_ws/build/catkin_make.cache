@@ -1,0 +1,2 @@
+iBot1:simple_arm
+-DCATKIN_DEVEL_PREFIX=/home/tanzir/ROS_project/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tanzir/ROS_project/catkin_ws/install -G Unix Makefiles

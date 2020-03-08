@@ -1,0 +1,8 @@
+prefix=/home/tanzir/ROS_project/catkin_ws/devel
+
+Name: iBot1
+Description: Description of iBot1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
